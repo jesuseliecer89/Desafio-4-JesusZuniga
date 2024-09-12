@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+nav,
+.formulario {
+  background-color: #28a745;
+}
+
+.formulario {
+  color: #fff;
+}
+
+.green {
+  color: #28a745;
+}
